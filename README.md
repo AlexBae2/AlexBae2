@@ -9,7 +9,7 @@
 </div>
 
 <h2>Stats</h2>
-![Anvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBae2&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AlexBae2&count_private=true" alt="start" />
 
 <h2>Follow me</h2>
 <div display="flex">
