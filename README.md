@@ -8,6 +8,9 @@
   <img src="https://camo.githubusercontent.com/47e0ac77536d2d465efaf674624e63b5a5ce50cace435cc77efe732a951ed9cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d426f6f747374726170266c6f676f436f6c6f72" alt="Bootstrap">
 </div>
 
+<h2>Stats</h2>
+[![Anvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBae2)
+
 <h2>Follow me</h2>
 <div display="flex">
   <a href="https://t.me/AlexBae">
