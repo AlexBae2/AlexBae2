@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anvar </h1>
+<img src="https://camo.githubusercontent.com/01a47d16f46c9a251acf847c5c746bb9af8e11111e96e18c3e47ca8d6b506770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d453944353444"/>
 
 <!--
 **AlexBae2/AlexBae2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
