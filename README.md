@@ -11,9 +11,3 @@
 <h2>Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=AlexBae2&count_private=true&theme=dracula" alt="start" />
 
-<h2>Follow me</h2>
-<div display="flex">
-  <a href="https://t.me/AlexBae">
-    <img src="https://camo.githubusercontent.com/ef7d2872e5a114cea8da567c3333a6b59a46cdb9da71338fbf43bc308dc82994/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" alt="telegram">
-  </a>
- </div>
